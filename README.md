@@ -1,12 +1,13 @@
 <!-- 动态字 -->
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=努力的意义从来不是成功;而是不留遗憾!&center=true&size=27"> </h1>
-
+<div align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
+  </div>
 <br/>
     <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -15,6 +16,11 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 <br/>
+
+<!-- run 图片 
+<div  align="center" style="display: flex; justify-content: center; align="center"; height: 100vh;">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Running Man" width="150" height="150">
+</div>-->
 
 ### ✨ 我的技能   
 
@@ -73,6 +79,7 @@
 
 
 <br/>
-
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 
