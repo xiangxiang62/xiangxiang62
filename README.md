@@ -74,7 +74,7 @@
 
 <p align="center">
   <!-- 举牌访问 -->
-  <img src="https://count.getloli.com/get/@:xiangxiang62?theme=gelbooru-h" alt="举牌访问">
+ <!-- <img src="https://count.getloli.com/get/@:xiangxiang62?theme=gelbooru-h" alt="举牌访问"> -->
 </p>
 
 
