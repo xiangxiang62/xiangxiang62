@@ -1,5 +1,5 @@
 <!-- 动态字 -->
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=努力的意义从来不是成功;而是不留遗憾!&center=true&size=27"> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=留下来一起生活。&center=true&size=30"> </h1>
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
