@@ -2,7 +2,7 @@
 
 <!--<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=留下来一起生活。&center=true&size=30"> </h1>-->
 <div align="center">
-  <h1>留下来一起生活 ^_^</h1>
+  <h1>道阻且长，兴则降至</h1>
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
