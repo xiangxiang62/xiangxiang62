@@ -18,7 +18,7 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxiang62)](https://github.com/xiangxiang62/github-readme-stats)
 <!-- run 图片 
 <div  align="center" style="display: flex; justify-content: center; align="center"; height: 100vh;">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Running Man" width="150" height="150">
