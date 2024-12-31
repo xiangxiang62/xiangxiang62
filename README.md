@@ -26,23 +26,30 @@
   
 <tr><td>
 
-### 🤺 About Me
+### 🤺 关于我
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/141726216?v=4" />
 
-<p>&emsp;&emsp;嗨，你好，我是香香。热爱编程、摄影、读书、音乐、放空。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+- <p>嗨，你好，我是香香。</p>
+- <p>热爱编程、摄影、读书、音乐、放空。</p>
+- <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+- <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+- <p><strong>希望我们都可以慢慢成为自己想要成为的人。</strong></p>
 
 </td></tr>
 
 <tr><td>
 
-<!-- run 图片 
-<div  align="center" style="display: flex; justify-content: center; align="center"; height: 100vh;">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Running Man" width="150" height="150">
-</div>-->
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
 
 ### ✨ 我的技能   
 
@@ -74,25 +81,6 @@
 </div>
 
 
-
-
-<!--
-<p align="center">
-   Star 数 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiangxiang62" alt="xiangxiang62's GitHub stats">
-  </a>
-</p>
--->
-
-
-<br/>
-
-
-
-
-
-### ✨主页访问 
 
 <p align="center">
   <!-- 举牌访问 -->
