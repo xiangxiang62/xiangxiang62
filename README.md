@@ -6,7 +6,6 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/141726216?v=4" />
 
-- <p>嗨，你好，我是香香。</p>
 - <p>一个敲代码的普通人</p>
 
 <!-- - <p>热爱编程、摄影、读书、音乐、放空。</p>
