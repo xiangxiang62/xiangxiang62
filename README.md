@@ -1,47 +1,73 @@
-#  🙋 Hello
+# 🚀 Hi there, I'm 香香 (xiangxiang62) 👨‍💻
 
- 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Code%20is%20Art&fontSize=70" />
+</div>
 
 ### 🤺 关于我
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/141726216?v=4" />
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/141726216?v=4" style="border-radius:20px; box-shadow: 10px 10px 5px rgba(0,0,0,0.1);" />
 
-- <p>一个敲代码的普通人</p>
+- 🛠️ **全栈开发探索者**：热衷于构建高并发、高性能的分布式系统。
+- 💡 **核心关注**：Spring Boot 生态、React 交互工程、以及 AI 赋能的研发工具。
+- 🏗️ **工程哲学**：追求代码的复用与极致的工程解耦，推崇“一次编写，处处生成”。
+- 🌱 **愿景**：希望能通过技术分享，与更多开发者共同成长。
 
-<!-- - <p>热爱编程、摄影、读书、音乐、放空。</p>
-- <p>热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-- <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-- <p><strong>希望我们都可以慢慢成为自己想要成为的人。</strong></p>
+---
 
+### 🛠️ 技能版图
 
-
-
-
-
-
-
-
-
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vert.x-782B90?style=flat-square&logo=vert.dot_x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </div>
 
-<br/>
+---
 
-### ✨✨✨
+### 📂 精选开源项目
+
+#### 🛠️ 研发效能与工具
+* **[reGenerator | 定制化代码生成器全栈平台](https://github.com/xiangxiang62/reGenerator)**
+    * *基于 React + Spring Boot + PicoCli + Vert.x 的高性能代码定制方案，支持 Web 与 CLI 双端联动。*
+* **[genCodeByDDL | 代码生成器插件](https://github.com/xiangxiang62/genCodeByDDL)**
+    * *深度集成开发环境，通过 DDL 定义快速生成领域代码，提效利器。*
+* **[ai-code-helper | AI 编程小助手](https://github.com/xiangxiang62/ai-code-helper)**
+    * *探索 AI 与编程融合的实践，利用大模型能力辅助开发者解决日常代码难题。*
+
+#### 🌐 平台级应用
+* **[xiangPic | 智能协同云图库](https://github.com/xiangxiang62/xiangPic)**
+    * *支持智能管理与团队协同的图库系统，聚焦云端存储与高效检索。*
+* **[SearchMiddleground | 多端聚合搜索平台](https://github.com/xiangxiang62/SearchMiddleground)**
+    * *企业级搜索中台实践，实现跨源数据聚合与高性能搜索体验。*
+
+---
+### 📊 极客坐标
+
+
+
 
 <div align="center">
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xiangxiang62&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxiang62&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiangxiang62&theme=github-compact&bg_color=00000000&hide_border=true&color=0099ff" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxiang62&layout=donut&theme=vue-dark&hide_border=true&bg_color=00000000&langs_count=8&locale=cn" alt="语言占比" />
+</div>
 
+<br />
 
 <p align="center">
-  <!-- 举牌访问 -->
- <!-- <img src="https://count.getloli.com/get/@:xiangxiang62?theme=gelbooru-h" alt="举牌访问"> 
+  <img src="https://komarev.com/ghpvc/?username=xiangxiang62&label=Profile%20views&color=0099ff&style=flat-square" alt="Views" />
 </p>
--->
 
-
-
-
+<p align="center">
+  <i>"希望我们都可以慢慢成为自己想要成为的人。"</i>
+</p>
