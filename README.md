@@ -58,10 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiangxiang62&theme=github-compact&bg_color=00000000&hide_border=true&color=0099ff" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxiang62&layout=donut&theme=vue-dark&hide_border=true&bg_color=00000000&langs_count=8&locale=cn" alt="语言占比" />
-</div>
-
 <br />
 
 <p align="center">
