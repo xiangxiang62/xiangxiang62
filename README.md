@@ -47,6 +47,8 @@
     * *支持智能管理与团队协同的图库系统，聚焦云端存储与高效检索。*
 * **[SearchMiddleground | 多端聚合搜索平台](https://github.com/xiangxiang62/SearchMiddleground)**
     * *企业级搜索中台实践，实现跨源数据聚合与高性能搜索体验。*
+* **[XiangBI | 智能数据分析平台](https://github.com/xiangxiang62/xiangBI)**
+    * *基于 Spring Boot + React + Ant Design Pro + ECharts 的智能 BI 系统，支持 Excel 上传、自动生成图表与 AI 数据分析，面向轻量化数据分析与决策场景。*
 
 ---
 ### 📊 极客坐标
