@@ -35,14 +35,14 @@
 ### 📂 精选开源项目
 
 #### 🛠️ 研发效能与工具
-* **[reGenerator | 定制化代码生成器全栈平台](https://github.com/xiangxiang62/reGenerator)**
-    * *基于 React + Spring Boot + PicoCli + Vert.x 的高性能代码定制方案，支持 Web 与 CLI 双端联动。*
 * **[genCodeByDDL | 代码生成器插件](https://github.com/xiangxiang62/genCodeByDDL)**
     * *深度集成开发环境，通过 DDL 定义快速生成领域代码，提效利器。*
 * **[ai-code-helper | AI 编程小助手](https://github.com/xiangxiang62/ai-code-helper)**
     * *探索 AI 与编程融合的实践，利用大模型能力辅助开发者解决日常代码难题。*
 
 #### 🌐 平台级应用
+* **[reGenerator | 定制化代码生成器全栈平台](https://github.com/xiangxiang62/reGenerator)**
+    * *基于 React + Spring Boot + PicoCli + Vert.x 的高性能代码定制方案，支持 Web 与 CLI 双端联动。*
 * **[xiangPic | 智能协同云图库](https://github.com/xiangxiang62/xiangPic)**
     * *支持智能管理与团队协同的图库系统，聚焦云端存储与高效检索。*
 * **[SearchMiddleground | 多端聚合搜索平台](https://github.com/xiangxiang62/SearchMiddleground)**
