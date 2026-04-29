@@ -1,8 +1,4 @@
-# 🚀 Hi there, I'm 香香 (xiangxiang62) 👨‍💻
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Code%20is%20Art&fontSize=70" />
-</div>
+# 🚀 Hi, I'm 程序员锟斤拷 (xiangxiang62) 👨‍💻
 
 ### 🤺 关于我
 
@@ -15,46 +11,21 @@
 
 ---
 
-### 🛠️ 技能版图
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vert.x-782B90?style=flat-square&logo=vert.dot_x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-</div>
-
----
-
 ### 📂 精选开源项目
 
-#### 🛠️ 研发效能与工具
-* **[genCodeByDDL | 代码生成器插件](https://github.com/xiangxiang62/genCodeByDDL)**
-    * *深度集成开发环境，通过 DDL 定义快速生成领域代码，提效利器。*
-* **[ai-code-helper | AI 编程小助手](https://github.com/xiangxiang62/ai-code-helper)**
-    * *探索 AI 与编程融合的实践，利用大模型能力辅助开发者解决日常代码难题。*
+- 🚀 平台项目：  
+  [定制化代码生成平台](https://github.com/xiangxiang62/reGenerator) ｜ 
+  [享·智能云图库](https://github.com/xiangxiang62/xiangPic) ｜ 
+  [聚合搜索中台](https://github.com/xiangxiang62/SearchMiddleground) ｜ 
+  [AI 数据分析平台](https://github.com/xiangxiang62/xiangBI)
 
-#### 🌐 平台级应用
-* **[reGenerator | 定制化代码生成器全栈平台](https://github.com/xiangxiang62/reGenerator)**
-    * *基于 React + Spring Boot + PicoCli + Vert.x 的高性能代码定制方案，支持 Web 与 CLI 双端联动。*
-* **[xiangPic | 智能协同云图库](https://github.com/xiangxiang62/xiangPic)**
-    * *支持智能管理与团队协同的图库系统，聚焦云端存储与高效检索。*
-* **[SearchMiddleground | 多端聚合搜索平台](https://github.com/xiangxiang62/SearchMiddleground)**
-    * *企业级搜索中台实践，实现跨源数据聚合与高性能搜索体验。*
-* **[XiangBI | 智能数据分析平台](https://github.com/xiangxiang62/xiangBI)**
-    * *基于 Spring Boot + React + Ant Design Pro + ECharts 的智能 BI 系统，支持 Excel 上传、自动生成图表与 AI 数据分析，面向轻量化数据分析与决策场景。*
-
+- ⚙️ 工具组件：  
+  [DDL 生成代码（JetBrains 插件）](https://github.com/xiangxiang62/genCodeByDDL) ｜ 
+  [AI 编程小助手](https://github.com/xiangxiang62/ai-code-helper)
+  
 ---
+
 ### 📊 极客坐标
-
-
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiangxiang62&theme=github-compact&bg_color=00000000&hide_border=true&color=0099ff" width="100%" />
