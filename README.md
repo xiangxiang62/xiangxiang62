@@ -14,7 +14,7 @@
 ### 📂 精选开源项目
 
 - 🚀 平台项目：  
-  [定制化代码生成平台](https://github.com/xiangxiang62/reGenerator) ｜ 
+  [定制化代码生成平台](https://github.com/xiangxiang62/xiangGenCode) ｜ 
   [享·协同云图库](https://github.com/xiangxiang62/xiangPic) ｜ 
   [聚合搜索中台](https://github.com/xiangxiang62/SearchMiddleground) ｜ 
   [AI 数据分析平台](https://github.com/xiangxiang62/xiangBI)
