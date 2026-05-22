@@ -21,7 +21,8 @@
 
 - ⚙️ 工具组件：  
   [DDL 生成代码（JetBrains 插件）](https://github.com/xiangxiang62/genCodeByDDL) ｜ 
-  [AI 编程小助手](https://github.com/xiangxiang62/ai-code-helper)
+  [AI 编程小助手](https://github.com/xiangxiang62/ai-code-helper) ｜
+  [GitHub Contribution 可视化分析工具](https://github.com/xiangxiang62/github-contribution-insight) [（点我体验）](https://github-contribution-insight.vercel.app/)
   
 ---
 
